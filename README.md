@@ -5,8 +5,11 @@ A simple Java console application to manage teacher salaries and student fees.
 ## Installation & Run
 
 ### Clone the repository
+
+```bash
 $ git clone https://github.com/CandasKat/school-management.git
 $ cd school-management
+```
 
 ### Compile and execute
 $ javac -d out src/ecole/manager/system/*.java
