@@ -12,8 +12,11 @@ $ cd school-management
 ```
 
 ### Compile and execute
+
+```bash
 $ javac -d out src/ecole/manager/system/*.java
 $ java -cp out ecole.manager.system.Main
+```
 
 ## Project Structure
 
